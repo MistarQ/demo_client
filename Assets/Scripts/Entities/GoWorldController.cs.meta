@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f2ac72dbcbb818b42b07c50e9abfe9f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {fileID: 1570501902292714, guid: 66ee8cabd5af62b4d80a54abe66a17d2, type: 3}
+  - ZomBear: {fileID: 1407487118330024, guid: 0adb3903baf779f408e6f5f86f792731, type: 3}
+  - ZomBunny: {fileID: 1036428548950134, guid: a5feea40aedbe2b49b06455bbb85f534, type: 3}
+  - Hellephant: {fileID: 1461089042121850, guid: 13cc8416d305ab842bf25fcfbb146205,
+      type: 3}
+  - Account: {fileID: 1527360741552332, guid: e03db1ade490e594697d6b91e6e2f02a, type: 3}
+  - Mage: {fileID: 3452619616725148538, guid: e4aedb39e9f545d4ea4823858526bc32, type: 3}
+  - Knight: {fileID: 121574, guid: fe2a5bf9b4c2d4a4b9853a8506f18c40, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
